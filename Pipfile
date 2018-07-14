@@ -12,6 +12,8 @@ name = "pypi"
 [packages]
 
 flask = "*"
+feedparser = "*"
+ipython = "*"
 
 
 [requires]
